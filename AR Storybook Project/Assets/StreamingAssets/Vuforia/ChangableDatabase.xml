@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="galaxy" size="1.000000 0.812500" />
+    <ImageTarget name="robot2" size="1.000000 1.081633" />
+    <ImageTarget name="pigThink" size="1.000000 1.007692" />
+    <ImageTarget name="yin_and_yang" size="1.000000 1.000000" />
+    <ImageTarget name="key" size="1.000000 0.673828" />
+    <ImageTarget name="ringStack" size="1.000000 0.937500" />
+    <ImageTarget name="lock" size="1.000000 1.000000" />
+    <ImageTarget name="VRGirlImageTarget" size="1.000000 1.000000" />
+    <ImageTarget name="RobotDrawing" size="1.000000 0.562500" />
     <ImageTarget name="HorizonsImgTarget" size="1.000000 0.643229" />
-    <ImageTarget name="CyberTargetImg" size="1.000000 1.464835" />
-    <ImageTarget name="RobotTargetImg" size="1.000000 1.243926" />
     <ImageTarget name="ARVRTargetImg" size="1.000000 0.943750" />
   </Tracking>
 </QCARConfig>
